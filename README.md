@@ -20,7 +20,7 @@
 
 <div>
   <a href="https://github.com/nayaramarconi">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldseks&layout=compact&langs_count=6&theme=jolly"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaramarconi&layout=compact&langs_count=6&theme=jolly"/>
 </div>
 <div style="display: inline_block">
   
